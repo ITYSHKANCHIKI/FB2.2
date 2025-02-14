@@ -1,0 +1,13 @@
+{
+  "name": "FB2.2",
+  "version": "1.0.0",
+  "description": "-",
+  "main": "index.js",
+  "repository": "https://github.com/ITYSHKANCHIKI/FB2.2.git",
+  "author": "ITYSHKANCHIKI <shkenev05@bk.ru>",
+  "license": "MIT",
+  "private": null,
+  "dependencies": {
+    "react": "19.0.0"
+  }
+}
